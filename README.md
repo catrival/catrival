@@ -1,6 +1,6 @@
 <header align="left">
     <h1 align="left">Hola muchachos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> soy Andres Triana
-    <img align="right" height="270px" alt="guy" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+    <img align="right" height="320" alt="guy" width="420" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
     </h1>
     <span>Desarrollador Fronted, FullStack Apps & Web e Ing. Software </span>
     <h4 align="left">  
