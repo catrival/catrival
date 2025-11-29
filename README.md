@@ -49,12 +49,17 @@
 ------
 <h2>⭐ | Estadísticas de GitHub </h2>
 <div align="center">
-<a href="https://github.com/catrival">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=catrival&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catrival&layout=compact&langs_count=7&theme=default"/>
-</a>
+  <a href="https://github.com/catrival">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=catrival&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/catrival">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=catrival&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=catrival&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
 </div>
-</body>
+
 
 ------
 <div id="user-content-toc">
@@ -68,13 +73,14 @@
 <a href="https://www.instagram.com/catrival" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="mailto:andres.triana0429@gmail.com?Subject=Interesado%20en%20los%20servicios" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="instagram" height="50" width="50" /></a>
 </p>
+</body>
 
 ------
-<footer>
+<footer>    
     
 **Hecho por 👨‍💻:** [Catrival](https://github.com/catrival)
 
-**Última modificación:** 10/30/2025
+**Última modificación:** 11/29/2025
     
 </footer>
 
