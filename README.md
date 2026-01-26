@@ -55,9 +55,6 @@
   <a href="https://github.com/catrival">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=catrival&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=catrival&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
 </div>
 
 
@@ -80,7 +77,7 @@
     
 **Hecho por 👨‍💻:** [Catrival](https://github.com/catrival)
 
-**Última modificación:** 11/29/2025
+**Última modificación:** 01/26/2026
     
 </footer>
 
